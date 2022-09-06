@@ -11,9 +11,9 @@ public class SeasonDeterminer {
             case 3:
             case 4:
             case 5:
+            case 6:
                 System.out.println("Summer");
                 break;
-            case 6:
             case 7:
             case 8:
                 System.out.println("Spring");
